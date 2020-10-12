@@ -1,0 +1,1 @@
+POC to demonstrate schema registry usage in Python
